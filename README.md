@@ -33,7 +33,5 @@ The data for this example comes from 4 different sources which are real-time tel
 - scikitplot
 - matplotlib
 - seaborn
-- tensorflow
-- keras
 - xgboost
 - itertools
